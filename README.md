@@ -3,6 +3,6 @@ This will contain my practicals done while preparing for Gate DA 2025 from GO cl
 
 Currently we got:
     
-    Linear Regression
+    Linear Regression (Simple and Multiple)
     
-    Overfitting and Underfitting
+    Overfitting and Underfitting 
